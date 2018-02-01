@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
     s.version          = '0.0.1'
     s.summary          = 'Module B'
     s.description      = <<-DESC
-                       模块B.
+                       这是moduleB啊啊啊
                        DESC
     s.homepage         = 'https://github.com/Specscd'
     s.license          = { :type => 'MIT', :file => 'LICENSE' }
