@@ -1,5 +1,5 @@
 //
-//  BBB_Target.h
+//  Target_BBB.h
 //  BBB
 //
 //  Created by Zhaojiaqi on 2018/2/1.
@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface BBB_Target : NSObject
+@interface Target_BBB : NSObject
 
 - (UIViewController *)Action_viewController:(NSDictionary *)params;
 

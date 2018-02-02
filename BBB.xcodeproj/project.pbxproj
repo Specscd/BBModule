@@ -14,7 +14,7 @@
 		F6361ADF202316EC00C59A29 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F6361ADD202316EC00C59A29 /* LaunchScreen.storyboard */; };
 		F6361AE2202316EC00C59A29 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F6361AE1202316EC00C59A29 /* main.m */; };
 		F6361AEB20231C3B00C59A29 /* BBBViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F6361AEA20231C3B00C59A29 /* BBBViewController.m */; };
-		F6361AEE20231C4C00C59A29 /* BBB_Target.m in Sources */ = {isa = PBXBuildFile; fileRef = F6361AED20231C4C00C59A29 /* BBB_Target.m */; };
+		F6361AEE20231C4C00C59A29 /* Target_BBB.m in Sources */ = {isa = PBXBuildFile; fileRef = F6361AED20231C4C00C59A29 /* Target_BBB.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,8 +30,8 @@
 		F6361AE1202316EC00C59A29 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		F6361AE920231C3B00C59A29 /* BBBViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BBBViewController.h; sourceTree = "<group>"; };
 		F6361AEA20231C3B00C59A29 /* BBBViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BBBViewController.m; sourceTree = "<group>"; };
-		F6361AEC20231C4C00C59A29 /* BBB_Target.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BBB_Target.h; sourceTree = "<group>"; };
-		F6361AED20231C4C00C59A29 /* BBB_Target.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BBB_Target.m; sourceTree = "<group>"; };
+		F6361AEC20231C4C00C59A29 /* Target_BBB.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Target_BBB.h; sourceTree = "<group>"; };
+		F6361AED20231C4C00C59A29 /* Target_BBB.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Target_BBB.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,8 +83,8 @@
 			children = (
 				F6361AE920231C3B00C59A29 /* BBBViewController.h */,
 				F6361AEA20231C3B00C59A29 /* BBBViewController.m */,
-				F6361AEC20231C4C00C59A29 /* BBB_Target.h */,
-				F6361AED20231C4C00C59A29 /* BBB_Target.m */,
+				F6361AEC20231C4C00C59A29 /* Target_BBB.h */,
+				F6361AED20231C4C00C59A29 /* Target_BBB.m */,
 			);
 			path = BBB;
 			sourceTree = "<group>";
@@ -160,7 +160,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F6361AEE20231C4C00C59A29 /* BBB_Target.m in Sources */,
+				F6361AEE20231C4C00C59A29 /* Target_BBB.m in Sources */,
 				F6361AD7202316EC00C59A29 /* ViewController.m in Sources */,
 				F6361AE2202316EC00C59A29 /* main.m in Sources */,
 				F6361AD4202316EC00C59A29 /* AppDelegate.m in Sources */,

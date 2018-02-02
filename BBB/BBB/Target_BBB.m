@@ -1,15 +1,15 @@
 //
-//  BBB_Target.m
+//  Target_BBB.m
 //  BBB
 //
 //  Created by Zhaojiaqi on 2018/2/1.
 //  Copyright © 2018年 Zhaojiaqi. All rights reserved.
 //
 
-#import "BBB_Target.h"
+#import "Target_BBB.h"
 #import "BBBViewController.h"
 
-@implementation BBB_Target
+@implementation Target_BBB
 
 - (UIViewController *)Action_viewController:(NSDictionary *)params
 {
